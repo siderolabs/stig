@@ -9,11 +9,11 @@ v242437 - PSP has been removed in v0.15
 
 maybe:
 
-v242397 - we are using kubelet's staticPodPath, so we cannot disable it
-v242403 - we use Metadata audit logging instead of RequestResponse audit logging; could change, but need to evaluate trade-offs
-v242404 - we do set `hostname-override`, but this is handled internally and automatically, integrated with the TLS configuration, so this addresses the intention of the STIG, if not the letter of the check
-v242418 - we do not use the approved cipher list; we contain a number of newer ones, but no weaker or older ones
-v242438 - by strict reading, this is a finding, but it appears the _intention_ is as we have it
+v242397 - we are using kubelet's staticPodPath, so we cannot disable it: CAT I
+v242403 - we use Metadata audit logging instead of RequestResponse audit logging; could change, but need to evaluate trade-offs: CAT II
+v242404 - we do set `hostname-override`, but this is handled internally and automatically, integrated with the TLS configuration, so this addresses the intention of the STIG, if not the letter of the check: CAT II
+v242418 - we do not use the approved cipher list; we contain a number of newer ones, but no weaker or older ones: CAT II
+v242438 - by strict reading, this is a finding, but it appears the _intention_ is as we have it : CAT II
 
 
 unclear:
