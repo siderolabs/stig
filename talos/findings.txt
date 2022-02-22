@@ -5,6 +5,7 @@ v242462 - our audit-log-maxsize is 50; requirement is 100; should be simple to f
 v242462 - our audit-log-maxbackup is 3; requirement is 10; should be simple to fix
 v242541 - we have streaming connection idle timeout disabled (0s); it should be set to 5m
 v242465 - we are using stdout for audit log; STIG requires this to be a real file for audit trails
+v242437 - PSP has been removed in v0.15
 
 maybe:
 
@@ -12,7 +13,6 @@ v242397 - we are using kubelet's staticPodPath, so we cannot disable it
 v242403 - we use Metadata audit logging instead of RequestResponse audit logging; could change, but need to evaluate trade-offs
 v242404 - we do set `hostname-override`, but this is handled internally and automatically, integrated with the TLS configuration, so this addresses the intention of the STIG, if not the letter of the check
 v242418 - we do not use the approved cipher list; we contain a number of newer ones, but no weaker or older ones
-v242437 - our default PSP is definitely too broad, but this can be replaced by the user
 v242438 - by strict reading, this is a finding, but it appears the _intention_ is as we have it
 
 
