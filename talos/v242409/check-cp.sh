@@ -1,7 +1,7 @@
 #!/bin/bash
 . inc.sh
 
-DATA=$($TALOSCTL read /etc/kubernetes/manifests/talos-kube-controller-manager.yaml |grep -c profiling=false)
+DATA=$($TALOSCTL get staticpod kube-controller-manager -o yaml |grep -c profiling=false)
 if [ $DATA -ne 1 ]; then
    echo "kube-controller-manager does not have profiling disabled"
    exit 1

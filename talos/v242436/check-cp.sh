@@ -1,9 +1,9 @@
 #!/bin/bash
 . inc.sh
 
-DATA=$($TALOSCTL read /etc/kubernetes/manifests/talos-kube-apiserver.yaml |grep '\--enable-admission-plugins' | grep -c ValidatingAdmissionWebhook)
-if [ $DATA -ne 1 ]; then
-   echo "kube-apiserver does not have the ValidatingAdmissionWebhook admission plugin enabled"
+DATA=$($TALOSCTL get staticpod kube-apiserver -o yaml | grep '\--disable-admission-plugins' | grep -c ValidatingAdmissionWebhook)
+if [ $DATA -eq 1 ]; then
+   echo "kube-apiserver has the ValidatingAdmissionWebhook admission plugin disabled"
    exit 1
 fi
 

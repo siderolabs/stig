@@ -1,7 +1,7 @@
 #!/bin/bash
 . inc.sh
 
-DATA=$(talosctl read /etc/kubernetes/manifests/talos-kube-apiserver.yaml |grep -c read-only-port)
+DATA=$(talosctl get staticpod kube-apiserver -o yaml |grep -c read-only-port)
 if [ $DATA -ne 0 ]; then
    echo "kubelet read-only-port is set"
    exit 1

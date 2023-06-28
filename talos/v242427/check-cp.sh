@@ -1,7 +1,7 @@
 #!/bin/bash
 . inc.sh
 
-DATA=$($TALOSCTL ps |grep local.bin.etcd |grep -c '\--key-file=/system/secrets/etcd/peer.key')
+DATA=$($TALOSCTL ps | grep local.bin.etcd | grep -c '\--key-file=/system/secrets/etcd/server.key')
 if [ $DATA -ne 1 ]; then
    echo "etcd does not have key-file set correctly"
    exit 1

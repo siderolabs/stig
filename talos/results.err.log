@@ -339,3 +339,883 @@ core0: rpc error: code = Unknown desc = lstat /-: no such file or directory
 No resources found
 Warning: policy/v1beta1 PodSecurityPolicy is deprecated in v1.21+, unavailable in v1.25+
 172.16.198.5: rpc error: code = Unknown desc = lstat /-: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242403/check-cp.sh: line 4: yq: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /system/secrets/kubernetes/kube-apiserver/auditpolicy.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242403/check-cp.sh: line 4: yq: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /system/secrets/kubernetes/kube-apiserver/auditpolicy.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242403/check-cp.sh: line 4: yq: command not found
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242403/check-cp.sh: line 4: yq: command not found
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-apiserver.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242380/check-cp.sh: line 11: [: : integer expression expected
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242380/check-cp.sh: line 11: [: : integer expression expected
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242380/check-cp.sh: line 11: [: : integer expression expected
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-controller-manager.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242380/check-cp.sh: line 11: [: : integer expression expected
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+1 error occurred:
+ rpc error: code = Unknown desc = stat /etc/kubernetes/manifests/talos-kube-scheduler.yaml: no such file or directory
+./v242443/check.sh: line 5: kubectl: command not found
+./v242415/check.sh: line 4: kubectl: command not found
+./v242442/check.sh: line 5: kubectl: command not found
+./v242383/check.sh: line 4: kubectl: command not found
+./v242383/check.sh: line 10: kubectl: command not found
+./v242383/check.sh: line 16: kubectl: command not found
+./v242437/check.sh: line 5: kubectl: command not found
+./v242395/check.sh: line 4: kubectl: command not found

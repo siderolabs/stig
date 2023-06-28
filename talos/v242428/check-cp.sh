@@ -1,7 +1,7 @@
 #!/bin/bash
 . inc.sh
 
-DATA=$($TALOSCTL ps |grep local.bin.etcd |grep -c '\--cert-file=/system/secrets/etcd/peer.crt')
+DATA=$($TALOSCTL ps | grep local.bin.etcd | grep -c '\--cert-file=/system/secrets/etcd/server.crt')
 if [ $DATA -ne 1 ]; then
    echo "etcd does not have cert-file set correctly"
    exit 1
